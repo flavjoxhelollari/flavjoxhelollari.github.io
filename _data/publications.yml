@@ -1,22 +1,46 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+- title: Optimizing Stable Diffusion
+    description: >
+      Achieved significant speedup by identifying and addressing bottlenecks in the model. 
+      Utilized the NYU HPC Greene Supercomputer. Modified the CNN architecture with 1x1 convolution 
+      and performed distributed deep learning. Employed PyTorch Profiler and Weights and Biases 
+      for hyperparameter tuning, achieving a 178 FID score.
+    technologies:
+      - PyTorch
+      - NYU HPC Greene Supercomputer
+      - Weights and Biases
+    link: https://github.com/flavjoxhelollari/Performance-Preserving-Optimization-of-Diffusion-Networks 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: moneyMate
+    description: >
+      Developed a Java-based desktop application for managing personal finances. 
+      Features include a user-friendly graphical interface and a database to store and retrieve 
+      financial data. The application supports CRUD operations, budget planning, and financial analysis, 
+      and is customizable and scalable for a variety of personal finance needs.
+    technologies:
+      - Java
+      - Database Management
+    link: https://github.com/flavjoxhelollari/moneyMate 
+
+  - title: Building Better Web-App-Firewall Models with Transformers
+    description: >
+      Mitigated SQL Injection attacks by utilizing transformer models to enhance web application firewall 
+      models. The project focuses on preventing common web attacks, specifically embedding malicious SQL 
+      code in queries to exploit vulnerabilities.
+    technologies:
+      - Transformers
+      - SQL Injections
+      - Web Security
+    link: https://github.com/flavjoxhelollari/sql_llm 
+
+  - title: Informed Search Algorithms in AI
+    description: >
+      Developed a Python application demonstrating the efficiency of informed search algorithms using 
+      an interactive N-puzzle game. Optimized the algorithms for speed and contributed to full-stack development 
+      to improve user experience.
+    technologies:
+      - Python
+      - N-puzzle Game
+      - Informed Search Algorithms
+    link: [Code available upon request]
