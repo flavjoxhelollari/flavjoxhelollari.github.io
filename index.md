@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently working on Quantum Machine Learning, Adversarial Machine Learning, Machine Learning and Security
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** quantum-learning, adversarial ML, privacy-preserving ML
 
-## News
+## Timeline
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2024]** Currently working on Local Differential Privacy for Quantum Classification Machine Learning
+- **[May. 2024]** Graduated from New York University with a Master's Of Science in Computer Engineering
+- **[May. 2022]** Graduated Magna Cum Laude from American University in Bulgaria, double majored in Computer Science and Mathematics
 
 {% include_relative _includes/publications.md %}
 
