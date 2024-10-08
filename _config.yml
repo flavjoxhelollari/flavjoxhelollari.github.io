@@ -21,8 +21,8 @@ twitter: https://twitter.com/flavjo_xh
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/avatar.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FOnePiece%2Fcomments%2Fyd0nmr%2Fone_piece_icons_by_me%2F&psig=AOvVaw1KdsvLHxTHwAmjvKC_rIQs&ust=1728498231262000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMir5Ouz_4gDFQAAAAAdAAAAABAE
+favicon_dark: https://static.vecteezy.com/system/resources/previews/028/253/247/non_2x/monkey-d-luffy-gear-5-straw-hat-pirates-one-piece-free-vector.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
