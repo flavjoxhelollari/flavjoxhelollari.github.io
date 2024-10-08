@@ -19,11 +19,6 @@ I am currently working on Quantum Machine Learning, Adversarial Machine Learning
 - **[May. 2022]** Graduated Magna Cum Laude from American University in Bulgaria, double majored in Computer Science and Mathematics
 - **[Jan. 2021]** Studied at Truman State University, focused in AI
 
-<!-- This is a comment in Markdown --> {% include_relative _includes/publications.md %}
-
-<!-- This is a comment in Markdown --> {% include_relative _includes/services.md %}
-
-<!-- Project: Mathematical Optimization in Machine Learning -->
 
 ### Conference Preceedings
 - **Description**: 
