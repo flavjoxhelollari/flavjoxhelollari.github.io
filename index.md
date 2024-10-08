@@ -22,3 +22,12 @@ I am currently working on Quantum Machine Learning, Adversarial Machine Learning
 <!-- This is a comment in Markdown --> {% include_relative _includes/publications.md %}
 
 <!-- This is a comment in Markdown --> {% include_relative _includes/services.md %}
+
+<!-- Project: Mathematical Optimization in Machine Learning -->
+
+### Conference Preceedings
+- **Description**: 
+  Presented research at the AUBG 16th Annual Student Faculty Research Conference "Fellowship of the Mind". 
+  Explored mathematical optimization techniques and their applications in machine learning models.
+- **Conference**: AUBG 16th Annual Student Faculty Research Conference
+- **Link**: [View project](https://drive.google.com/file/d/1HaCwCy4eh5ZLTi8j9-TyBNtGBPTKCMYq/view?usp=sharing)
